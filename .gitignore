@@ -16,7 +16,7 @@ static/browser_history/*.gif
 .env
 
 # user conf
-conf.yaml
+# conf.yaml
 
 .idea/
 .langgraph_api/
